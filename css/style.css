@@ -65,6 +65,7 @@ hr{
 #tab-bar {
     background-color:white;
     text-align: center;
+    white-space: nowrap;
 }
 
 #tab-bar button{
